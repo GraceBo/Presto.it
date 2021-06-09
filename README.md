@@ -50,4 +50,3 @@ Click [here](https://gitlab.com/hackademy-26/presto_hackvengers)
 Click [Here](https://aqicn.org/data-platform/token/#/)
 
 Thanks!
-D.Russo
