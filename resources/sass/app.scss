@@ -1,0 +1,27 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+@import "css_custom";
+
+//font-awesome
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/regular";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+@import "~@fortawesome/fontawesome-free/scss/brands";
+
+@import "above";
+
+@import "form";
+
+//flag icons
+@import "~flag-icon-css/sass/flag-icon";
+
+//dropzone
+@import "~dropzone/dist/basic";
+@import "~dropzone/dist/dropzone";
